@@ -1,2 +1,8 @@
-
+img{
+	display: flex;
+	width: 50%;
+	height: 50%;
+	padding-top: 50px;
+	padding-left: 20px;
+}
 /* Your CSS Code here. */
